@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "major_towns",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32735" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Harare" }, "geometry": { "type": "Point", "coordinates": [ 931766.913926109322347, 8024386.617315821349621 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Mutare" }, "geometry": { "type": "Point", "coordinates": [ 1091840.150739249540493, 7894740.524690303020179 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Masvingo" }, "geometry": { "type": "Point", "coordinates": [ 903191.856775994761847, 7777794.45746483374387 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Bulawayo" }, "geometry": { "type": "Point", "coordinates": [ 660039.287137522827834, 7768004.854552293196321 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Gweru" }, "geometry": { "type": "Point", "coordinates": [ 787039.541138030937873, 7860080.038702660240233 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Victoria Falls" }, "geometry": { "type": "Point", "coordinates": [ 373296.526152000762522, 8012956.59445576928556 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Kariba" }, "geometry": { "type": "Point", "coordinates": [ 697644.995039286790416, 8172592.243842682801187 ] } }
+]
+}
